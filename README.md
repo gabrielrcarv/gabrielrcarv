@@ -7,13 +7,13 @@
 </samp>
 <br/><br/>
 
-
-## <p align="left">Studying today 💻 </p>
+# <p align="left">Studying today 💻 </p>
 <p align="left">
   <br>
-   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" /></a>
-   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg"/></a>
-   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" /></a>
+   <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </p>
 
 
