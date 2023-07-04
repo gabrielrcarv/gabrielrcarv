@@ -3,7 +3,7 @@
 
 <p align="left" >
   <samp>
-   I am a student of Information Systems at the Pontifical Catholic University of Minas Gerais and I have experience in the area of IT Infrastructure. I am currently looking for an opportunity as a Full Stack Developer.
+   I am a student of Information Systems at the Pontifical Catholic University of Minas Gerais and I have experience in the area of IT Infrastructure.
 </samp>
 <br/><br/>
 
